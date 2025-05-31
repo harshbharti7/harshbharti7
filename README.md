@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshbharti7/harshbharti7/main/banner.png" alt="Harsh Kumar Bharti Banner" width="80%" />
+  <img src="https://raw.githubusercontent.com/harshbharti7/harshbharti7/main/banner.png" alt="Harsh Kumar Bharti Banner" width="100%" height="180px"/>
 </p>
 
 <h1 align="center">Hey 👋, I'm Harsh Kumar Bharti</h1>
-<h3 align="center">Full Stack Dev • Software Dev • CDAC Certified • Tech Enthusiast • Lifelong Learner</h3>
+<h3 align="center">Full Stack Dev • Software Dev • CDAC Certified • Tech Enthusiast • Lifelong Learner </h3>
 
 ---
 
@@ -16,10 +16,10 @@
 ---
 
 ### 🧰 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,react,spring,dotnet,mysql,git,github,vscode" />
-  <br/>
-  <img src="https://img.shields.io/badge/STS-Spring%20Tool%20Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,react,spring,dotnet,mysql,github,vscode" />
+  <img src="https://img.shields.io/badge/STS-SpringToolSuite-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
 ---
@@ -27,21 +27,22 @@
 ### 🚀 Languages & Technologies I Use
 
 <p align="center">
-  <img src="https://github-readme-language-stats.vercel.app/api/top-langs/?username=harshbharti7&layout=compact&langs_count=8&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshbharti7&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 🔗 Connect with me
+
 <p align="center">
   <a href="https://linkedin.com/in/harsh-kumar-bharti-385b601ba" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Kumar%20Bharti-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:harshbharti7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-harshbharti7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/harshbharti7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/harshbharti7">
-    <img src="https://img.shields.io/badge/GitHub-harshbharti7-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/harshbharti7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
