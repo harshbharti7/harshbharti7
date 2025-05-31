@@ -50,4 +50,4 @@
 
 ---
 
-<p align="center"><i>"Build. Break. Fix. Repeat. That's the fun."</i></p>
+<p align="center"><i>"From lines of code to lines on the scoreboard — always striving, always learning."</i></p>
