@@ -1,31 +1,14 @@
-<!--## Hi there 👋
-
-<!--
-**harshbharti7/harshbharti7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ..
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
-  <img src="banner.png" alt="Harsh Kumar Bharti Banner" />
+  <img src="https://raw.githubusercontent.com/harshbharti7/harshbharti7/main/banner.png" alt="Harsh Kumar Bharti Banner" width="80%" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Harsh Kumar Bharti</h1>
-<h3 align="center">Full Stack Dev • Software Dev • CDAC Certified • Tech Enthusiast • Lifelong Learner </h3>
+<h3 align="center">Full Stack Dev • Software Dev • CDAC Certified • Tech Enthusiast • Lifelong Learner</h3>
 
 ---
 
 - 🔭 Currently experimenting with full stack builds & system design  
-- 🧠 Learning Technologies deeper & mastering full stack wizardry  
+- 🧠 Learning technologies deeper & mastering full stack wizardry  
 - ⚡ I break things, fix them better, and make them beautiful  
 - 💬 Talk tech, cricket, code, or coffee  
 - 📫 Reach me at: [harshbharti7@gmail.com](mailto:harshbharti7@gmail.com)
@@ -33,35 +16,35 @@ Here are some ideas to get you started:
 ---
 
 ### 🧰 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,dotnet,csharp,js,html,css,mysql,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,react,spring,dotnet,mysql,git,github,vscode" />
+  <br/>
+  <img src="https://img.shields.io/badge/STS-Spring%20Tool%20Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Languages & Technologies I Use
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshbharti7&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshbharti7&theme=radical"/>
+  <img src="https://github-readme-language-stats.vercel.app/api/top-langs/?username=harshbharti7&layout=compact&langs_count=8&theme=radical" />
 </p>
 
 ---
 
 ### 🔗 Connect with me
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/harsh-kumar-bharti-385b601ba" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Kumar%20Bharti-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:harshbharti7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-harshbharti7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/harshbharti7">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-harshbharti7-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center"><i>"Build. Break. Fix. Repeat. That's the fun."</i></p>
-
