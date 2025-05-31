@@ -8,7 +8,7 @@
 
 ---
 
-- 🔭 Currently experimenting with full stack builds & system design  
+- 🌐 Exploring the art of building scalable systems from frontend flair to backend brains  
 - 🧠 Learning technologies deeper & mastering full stack wizardry
 - 👨‍💻 Familiarity: C++, Java, Spring Boot, C#, MS.NET, HTML, CSS, JavaScript, React, MySQL, Adobe Photoshop
 - ⚡ I break things, fix them better, and make them beautiful  
