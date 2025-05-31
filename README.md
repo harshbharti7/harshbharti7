@@ -20,7 +20,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,csharp,html,css,js,react,spring,dotnet,mysql,github,vscode,spring,photoshop" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,c#,html,css,js,react,spring,dotnet,mysql,github,vscode,spring,photoshop" />
   <!--<img src="https://img.shields.io/badge/STS-SpringToolSuite-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />-->
 </p>
 
