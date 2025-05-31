@@ -24,7 +24,7 @@
 
 ---
 
-### 🚀 Languages & Technologies I Use
+### 🚀 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshbharti7&layout=compact&theme=radical" />
