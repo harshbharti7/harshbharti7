@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ---
 
 - 🔭 Currently experimenting with full stack builds & system design  
-- 🧠 Learning .NET deeper & mastering backend wizardry  
+- 🧠 Learning Technologies deeper & mastering full stack wizardry  
 - ⚡ I break things, fix them better, and make them beautiful  
 - 💬 Talk tech, cricket, code, or coffee  
 - 📫 Reach me at: [harshbharti7@gmail.com](mailto:harshbharti7@gmail.com)
