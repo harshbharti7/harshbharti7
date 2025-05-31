@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey 👋, I'm Harsh Kumar Bharti</h1>
 <h2 align="center">Full Stack Dev • Software Dev • CDAC Certified • Tech Enthusiast • Lifelong Learner </h2>
-<h3> 🎯In both sports and software, I believe in pushing limits, playing smart, and staying hungry</h3>
+<p align="center"> 🎯In both sports and software, I believe in pushing limits, playing smart, and staying hungry</p>
 
 ---
 
