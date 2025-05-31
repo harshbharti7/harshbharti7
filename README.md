@@ -18,7 +18,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,react,spring,dotnet,mysql,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,react,spring,dotnet,mysql,github,vscode" />C++
   <img src="https://img.shields.io/badge/STS-SpringToolSuite-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
