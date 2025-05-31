@@ -9,8 +9,7 @@
 
 - 🔭 Currently experimenting with full stack builds & system design  
 - 🧠 Learning technologies deeper & mastering full stack wizardry
-- Familiar with 
-                -C++, Java, Spring Boot
+- Familiarity: C++, Java, Spring Boot, HTML, CSS, JavaScript, React, MySQL, Adobe Photoshop
 - ⚡ I break things, fix them better, and make them beautiful  
 - 💬 Talk tech, cricket, code, or coffee  
 - 📫 Reach me at: [harshbharti7@gmail.com](mailto:harshbharti7@gmail.com)
