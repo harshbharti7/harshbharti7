@@ -19,10 +19,33 @@
 
 ### 🧰 Tech Stack
 
-<p align="center">
+<!--<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,react,spring,dotnet,mysql,github,vscode,spring,photoshop" />
   
+</p> -->
+<p align="center">
+  <!-- Group 1: Java, C++, C#, C -->
+  <img src="https://skillicons.dev/icons?i=java,cpp,csharp,c" style="margin-right: 30px;" />
+  
+  <!-- Group 2: Spring Boot, MS.NET -->
+  <img src="https://skillicons.dev/icons?i=spring,dotnet" style="margin-right: 30px;" />
+  
+  <!-- Group 3: HTML, CSS, JavaScript, React -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" style="margin-right: 30px;" />
+  
+  <!-- Group 4: MySQL -->
+  <img src="https://skillicons.dev/icons?i=mysql" style="margin-right: 30px;" />
+  
+  <!-- Group 5: GitHub -->
+  <img src="https://skillicons.dev/icons?i=github" style="margin-right: 30px;" />
+  
+  <!-- Group 6: VSCode, STS -->
+  <img src="https://skillicons.dev/icons?i=vscode,spring" style="margin-right: 30px;" />
+  
+  <!-- Group 7: Photoshop (using shields.io) -->
+  <img src="https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </p>
+
 
 ---
 
