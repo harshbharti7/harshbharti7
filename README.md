@@ -21,9 +21,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,react,spring,dotnet,mysql,github,vscode,photoshop" />
-  <img src="https://skillicons.dev/icons?i=cpp,java,csharp,html,css,js,react,spring,dotnet,mysql,github,vscode" />
-
-  
 </p> 
 
 
