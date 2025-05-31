@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center">Hey 👋, I'm Harsh Kumar Bharti</h1>
-<h3 align="center">Full Stack Dev • Java Lover • Clean Code Enthusiast</h3>
+<h3 align="center">Full Stack Dev • Software Dev • CDAC Certified • Tech Enthusiast • Lifelong Learner </h3>
 
 ---
 
