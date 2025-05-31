@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshbharti7/harshbharti7/main/banner.png" alt="Harsh Kumar Bharti Banner" width="100%" height="180px"/>
+  <img src="https://raw.githubusercontent.com/harshbharti7/harshbharti7/main/banner.png" alt="Harsh Kumar Bharti Banner" width="70%" height="1800px"/>
 </p>
 
 <h1 align="center">Hey 👋, I'm Harsh Kumar Bharti</h1>
